@@ -1,0 +1,47 @@
+.heading {
+  color: #183b56;
+}
+
+.writing-section {
+  background-color: #f9fbfe;
+}
+.writing-section-heading {
+  color: #183b56;
+  font-size: 28px;
+  font-weight: 700;
+}
+.writing-section-description {
+  color: #183b56e7;
+  font-size: 16px;
+}
+.writing-card {
+  text-align: center;
+  background-color: white;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #e5eaf4;
+  border-radius: 16px;
+}
+.writing-card-image {
+  width: 87px;
+  height: 90px;
+}
+.writing-card-title {
+  color: #183b56;
+  font-size: 22px;
+  font-weight: 500;
+}
+.writing-card-description {
+  color: #183b56e7;
+  font-size: 16px;
+}
+
+.custom-button {
+  color: white;
+  background-color: #183b56;
+  width: 130px;
+  height: 45px;
+  border-width: 0;
+  border-radius: 8px;
+  margin-right: 10px;
+}

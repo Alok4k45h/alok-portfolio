@@ -1,0 +1,12 @@
+.devstack {
+  color: #183B56;
+  transition: all 0.5s;
+  padding: 10px;
+}
+.devstack:hover {
+  color: white;
+  background-color: #001220;
+  transform: scale(1.05);
+  box-shadow: none;
+}
+

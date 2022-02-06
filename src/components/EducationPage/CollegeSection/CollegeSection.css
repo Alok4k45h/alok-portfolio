@@ -1,0 +1,53 @@
+.heading{
+  color: #183B56;
+}
+
+.college-section {
+    background-color: #f9fbfe;
+  }
+  .college-section-img {
+    width: 270px;
+    height: 270px;
+  }
+  .college-section-heading {
+    color: #183b56;
+    font-size: 28px;
+    font-weight: 700;
+  }
+  .college-section-description {
+    color: #5a7184;
+    font-size: 18px;
+  }
+  .custom-button {
+    color: white;
+    background-color: #001220;
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+  }
+
+  .colleges-section {
+    background-color: white;
+  }
+  .colleges-section-img {
+    width: 270px;
+  }
+  .colleges-section-heading {
+    color: #183b56;
+    font-size: 28px;
+    font-weight: 700;
+  }
+  .colleges-section-description {
+    color: #5a7184;
+    font-size: 18px;
+  }
+  
+  
+
+  @media (max-width:768px) {
+    .college-section-content-container{
+        text-align: center;
+    }
+  }

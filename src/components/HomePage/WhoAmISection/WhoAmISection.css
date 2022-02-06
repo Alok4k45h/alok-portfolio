@@ -1,0 +1,30 @@
+.who-am-i-container {
+  background-color: #001220;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.carousel-container {
+  color: white;
+  background-color: #001220;
+  padding: 10px;
+}
+
+.alok-image {
+  height: 316px;
+  border-radius: 50px;
+}
+
+.flow-hidden {
+  overflow-x: hidden;
+}
+
+pre {
+  font-size: 15px;
+  color: white;
+  padding-left: 10px;
+  margin-left: 30px;
+  overflow-x: hidden;
+}

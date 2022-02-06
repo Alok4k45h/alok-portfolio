@@ -1,0 +1,26 @@
+
+.alok-logo {
+  height: 35px;
+  width: 35px;
+  border-radius: 40px;
+}
+
+.bg-color {
+  background-color: #001220;
+}
+
+.margin-padding {
+  margin-left: 10px;
+}
+
+@media (max-width: 768px) {
+  .alok-logo {
+    height: 55px;
+    width: 55px;
+    border-radius: 40px;
+  }
+
+  .margin-padding {
+    padding-top: 20px;
+  }
+}

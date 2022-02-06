@@ -1,0 +1,62 @@
+.bg-container {
+  background-size: cover;
+  height: 100vh;
+  background-position: 100% 100%;
+}
+
+.bg-content {
+  padding: 10px;
+}
+
+.bg-container div h3 {
+  font-size: 30px;
+  color: white;
+}
+
+.bg-container div h1 {
+  font-size: 100px;
+  color: rgba(255, 255, 255, 0.5);
+}
+
+.bg-container div h1:hover {
+  color: white;
+  cursor: default;
+  text-shadow: 0px 0px 15px white; /* check it out https://www.w3schools.com/cssref/css3_pr_text-shadow.asp*/
+}
+
+.bg-container div p {
+  color: white;
+}
+
+button {
+  color: #183B56;
+  height: 40px;
+  border-radius: 20px;
+  border: none;
+  margin-top: 30px;
+  margin-right: 30px;
+}
+
+@media (max-width: 768px) {
+  .bg-content {
+    margin-left: 10px;
+  }
+
+  .bg-container div h3 {
+    font-size: 20px;
+    color: white;
+  }
+
+  .bg-container div h1 {
+    font-size: 80px;
+    color: rgba(255, 255, 255, 0.5);
+  }
+
+  button {
+    height: 40px;
+    width: 140px;
+    border-radius: 20px;
+    border: none;
+    margin-top: 30px;
+  }
+}
