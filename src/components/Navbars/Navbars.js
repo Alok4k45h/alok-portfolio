@@ -24,7 +24,7 @@ export default class Navbars extends Component {
               <Nav d-flex justify-content-center>
                 <Nav.Link
                   as={Link}
-                  to={"/"}
+                  to={"/#"}
                   className={`${path === "/" && "active"}`}
                 >
                   Home

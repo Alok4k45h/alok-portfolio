@@ -32,10 +32,16 @@ function Footer() {
                 >
                   <FaInstagram className="footer-icons" />
                 </a>
-                <a href="knightdark1817@gmail.com" target="_blank">
+                <a
+                  href=""
+                  target="_blank"
+                >
                   <FaMailBulk className="footer-icons" />
                 </a>
-                <a href="https://www.linkedin.com/in/07alokkumar" target="_blank">
+                <a
+                  href="https://www.linkedin.com/in/07alokkumar"
+                  target="_blank"
+                >
                   <FaLinkedinIn className="footer-icons" />
                 </a>
                 <a href="https://github.com/Alok4k45h" target="_blank">

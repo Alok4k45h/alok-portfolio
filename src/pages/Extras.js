@@ -3,6 +3,7 @@ import BannerExtraSection from "../components/ExtrasPage/BannerExtraSection/Bann
 import PhotographySection from "../components/ExtrasPage/PhotographySection/PhotographySection";
 import WritingSection from "../components/ExtrasPage/WritingSection/WritingSection";
 import Navbars from "../components/Navbars/Navbars";
+import Top from "../components/Top/Top";
 
 function Contacto() {
   return (
@@ -11,6 +12,7 @@ function Contacto() {
       <BannerExtraSection />
       <PhotographySection />
       <WritingSection />
+      <Top />
     </div>
   );
 }

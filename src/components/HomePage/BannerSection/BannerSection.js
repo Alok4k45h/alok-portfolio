@@ -6,6 +6,7 @@ function BannerSection() {
     <div
       className="bg-container flex-with-center"
       style={{ backgroundImage: `url('./bannerhome2.png')` }}
+      id="bannerHome"
     >
       <div className="container">
         <div className="row">

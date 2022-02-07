@@ -5,6 +5,7 @@ import IntroSection from "../components/HomePage/IntroSection/IntroSection";
 import DevStackSection from "../components/HomePage/DevStackSection/DevStackSection";
 import WhoAmISection from "../components/HomePage/WhoAmISection/WhoAmISection";
 import Navbars from "../components/Navbars/Navbars";
+import Top from "../components/Top/Top";
 
 function Home() {
   return (
@@ -15,6 +16,7 @@ function Home() {
       <IntroSection />
       <DevStackSection />
       <WhoAmISection />
+      <Top />
     </div>
   );
 }
