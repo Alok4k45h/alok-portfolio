@@ -44,7 +44,9 @@ function WhoAmISection() {
 
           <div className="col-md-6 mt-3" data-aos="fade-up">
             <div>
-              <h3 className="font-bold text-center">Hi 👋, Hello ✋, Nameste🙏</h3>
+              <h3 className="font-bold text-center">
+                Hi 👋, Hello ✋, Nameste🙏
+              </h3>
               <hr />
               <p className="flow-hidden">
                 <pre>

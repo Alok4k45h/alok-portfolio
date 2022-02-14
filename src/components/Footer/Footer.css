@@ -6,11 +6,11 @@
 .follow-me {
   background-color: white;
   text-align: center;
-  color: #183B56;
+  color: #292828;
 }
 
 .design {
-  background-color: #001220;
+  background-color: #292828;
   height: 150px;
   background-size: cover;
   text-align: center;
@@ -19,8 +19,8 @@
   margin-top: 10px;
 }
 
-.footer-icons{
-  color: #183B56;
+.footer-icons {
+  color: #292828;
   font-size: 30px;
 }
 
@@ -30,7 +30,7 @@
 }
 
 .footer-icons:hover {
-  color: #183B56;
+  color: #292828;
   transform: scale(2);
   cursor: pointer;
 }

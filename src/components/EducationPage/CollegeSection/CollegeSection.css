@@ -1,5 +1,5 @@
-.heading{
-  color: #183B56;
+.edu-heading{
+  color: #292828;
 }
 
 .college-section {
@@ -10,17 +10,17 @@
     height: 270px;
   }
   .college-section-heading {
-    color: #183b56;
+    color: #292828;
     font-size: 28px;
     font-weight: 700;
   }
   .college-section-description {
-    color: #5a7184;
+    color: #292828ca;
     font-size: 18px;
   }
-  .custom-button {
+  .custom-edu-button {
     color: white;
-    background-color: #001220;
+    background-color: #292828;
     width: 130px;
     height: 45px;
     border-width: 0;
@@ -35,12 +35,12 @@
     width: 270px;
   }
   .colleges-section-heading {
-    color: #183b56;
+    color: #292828;
     font-size: 28px;
     font-weight: 700;
   }
   .colleges-section-description {
-    color: #5a7184;
+    color: #292828ca;
     font-size: 18px;
   }
   

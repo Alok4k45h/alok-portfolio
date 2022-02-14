@@ -1,17 +1,17 @@
-.heading {
-  color: #183b56;
+.pro-heading {
+  color: #292828;
 }
 
 .project-section {
   background-color: #f9fbfe;
 }
 .project-section-heading {
-  color: #183b56;
+  color: #292828;
   font-size: 28px;
   font-weight: 700;
 }
 .project-section-description {
-  color: #5a7184;
+  color: #292828ca;
   font-size: 16px;
 }
 .project-card {
@@ -29,12 +29,12 @@
   height: 90px;
 }
 .project-card-title {
-  color: #183B56;
+  color: #292828;
   font-size: 22px;
   font-weight: 500;
 }
 .project-card-description {
-  color: #183b56e7;
+  color: #292828ca;
   font-size: 16px;
 }
 
@@ -59,7 +59,7 @@
   justify-content: center;
   padding: 5px;
   height: 100%;
-  background-color: #183b56;
+  background-color: #292828;
   color: white;
   border-radius: 10px;
   opacity: 0;

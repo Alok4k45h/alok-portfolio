@@ -1,17 +1,17 @@
 .heading {
-  color: #183b56;
+  color: #292828;
 }
 
 .writing-section {
-  background-color: #f9fbfe;
+  background-color: #292828;
 }
 .writing-section-heading {
-  color: #183b56;
+  color: #292828;
   font-size: 28px;
   font-weight: 700;
 }
 .writing-section-description {
-  color: #183b56e7;
+  color: #292828ca;
   font-size: 16px;
 }
 .writing-card {
@@ -27,18 +27,18 @@
   height: 90px;
 }
 .writing-card-title {
-  color: #183b56;
+  color: #292828;
   font-size: 22px;
   font-weight: 500;
 }
 .writing-card-description {
-  color: #183b56e7;
+  color: #292828ca;
   font-size: 16px;
 }
 
 .custom-button {
   color: white;
-  background-color: #183b56;
+  background-color: #292828;
   width: 130px;
   height: 45px;
   border-width: 0;

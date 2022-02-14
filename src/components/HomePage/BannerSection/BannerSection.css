@@ -1,3 +1,10 @@
+
+
+.banner-section-image {
+  width: 280px;
+  margin-bottom: 10px;
+}
+
 .bg-container {
   background-size: cover;
   height: 100vh;
@@ -29,7 +36,7 @@
 }
 
 button {
-  color: #183B56;
+  color: #183b56;
   height: 40px;
   border-radius: 20px;
   border: none;

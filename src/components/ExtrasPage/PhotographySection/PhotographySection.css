@@ -1,10 +1,10 @@
-.heading {
-  color: #183b56;
+.photo-heading {
+  color: #292828;
 }
 
 .project {
   padding: 20px;
-  border: 1px solid #183b56;
+  border: 1px solid #292828;
   border-radius: 10px;
   margin-top: 50px;
   animation: project-animation 10s linear infinite;
@@ -18,7 +18,7 @@
   animation-play-state: paused;
   transform: scale(1.05);
   cursor: pointer;
-  background-color: #183b56;
+  background-color: #292828;
   transform: scale(1.05);
   box-shadow: none;
 }

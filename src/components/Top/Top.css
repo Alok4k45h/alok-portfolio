@@ -7,7 +7,7 @@
   border: none;
   outline: none;
   background-color: white;
-  color: #001220;
+  color: #292828;
   cursor: pointer;
   padding: 5px;
   border-radius: 15px;
@@ -15,7 +15,7 @@
 }
 
 #topButton:hover {
-  background-color: #001220;
+  background-color: #292828;
   color: white;
   transition: all ease-in-out 0.2s;
 }

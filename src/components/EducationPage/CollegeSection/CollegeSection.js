@@ -7,7 +7,7 @@ function CollegeSection() {
       <div className="container">
         <div className="row">
           <div className="col-12 mt-3">
-            <h1 className="heading">MY EDUCATION 📚</h1> <hr />
+            <h1 className="edu-heading">MY EDUCATION 📚</h1> <hr />
           </div>
         </div>
       </div>
@@ -31,7 +31,7 @@ function CollegeSection() {
               </h3>
               <p className="college-section-description">2019-Present</p>
               <a href="https://www.iitism.ac.in/" target="_blank">
-                <button className="custom-button">Go to Website</button>
+                <button className="custom-edu-button">Go to Website</button>
               </a>
             </div>
           </div>
@@ -61,7 +61,7 @@ function CollegeSection() {
                 June 2016 - June 2018
               </p>
               <a href="http://biharboardonline.bihar.gov.in/" target="_blank">
-                <button className="custom-button">Go to Website</button>
+                <button className="custom-edu-button">Go to Website</button>
               </a>
             </div>
           </div>
@@ -88,7 +88,7 @@ function CollegeSection() {
                 href="https://navodaya.gov.in/nvs/nvs-school/VAISHALI/en/home/"
                 target="_blank"
               >
-                <button className="custom-button">Go to Website</button>
+                <button className="custom-edu-button">Go to Website</button>
               </a>
             </div>
           </div>
