@@ -17,7 +17,7 @@ function PhotographySection() {
           <div className="row">
             {PhotographyData.map((project) => {
               return (
-                <div className="col-md-4">
+                <div className="col-md-4 ">
                   <div className="position-relative project">
                     <img src={project.image} alt="" />
                   </div>

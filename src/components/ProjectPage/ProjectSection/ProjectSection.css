@@ -40,7 +40,7 @@
 
 .project-card:hover > .project-content {
   opacity: 1;
-  transform: scale(1.03);
+  transform: scale(1.01);
   cursor: pointer;
 }
 /*

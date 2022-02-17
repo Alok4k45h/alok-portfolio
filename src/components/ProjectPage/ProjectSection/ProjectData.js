@@ -3,7 +3,7 @@ const ProjectData = [
     image: "./wikipedia.png",
     heading: "Wikipedia Search Application",
     description:
-      "Developed custom wikipedia search application where user can search and view curated results and can see detailed explanation in wikipedia by clicking on the specific result",
+      "Developed custom wikipedia search application where user can search and view curated results in wikipedia",
     technologies: "Technologies used: HTML, CSS, JS, REST API Calls, Bootstrap",
     listFirst:
       "Displayed list of search results with HTML list elements with hyperlink as url, styled list using CSS, Bootstrap and implemented responsiveness using Flex properties and CSS Box model.",

@@ -12,7 +12,10 @@ import "./TechnologiesSection.css";
 function TechnologiesSection() {
   return (
     <div>
-      <div className="courosel-parent position-relative" id="courosel">
+      <div
+        className="courosel-parent position-relative shadow-lg p-3 mb-5"
+        id="courosel"
+      >
         <h1 className="position-absolute top-0 start-0 end-0 text-center mt-5">
           Technologies I use 💻
         </h1>

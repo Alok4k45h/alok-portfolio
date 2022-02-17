@@ -20,7 +20,7 @@ function WritingSection() {
         <div className="container">
           <div className="row flex-with-center">
             <div className="col-12 col-md-4">
-              <div className="writing-card p-3 mb-3">
+              <div className="writing-card p-3 mb-3 shadow-lg p-3 mb-5 bg-white rounded">
                 <img src="./diarypage.png" className="writing-card-image" />
                 <h1 className="writing-card-title mt-3">
                   मेरी डायरी का एक पेज
@@ -96,7 +96,7 @@ function WritingSection() {
             </div>
 
             <div className="col-12 col-md-4">
-              <div className="writing-card p-3 mb-3">
+              <div className="writing-card p-3 mb-3 shadow-lg p-3 mb-5 bg-white rounded">
                 <img src="./diarypage.png" className="writing-card-image" />
                 <h1 className="writing-card-title mt-3">
                   मेरी डायरी का एक पेज
@@ -172,7 +172,7 @@ function WritingSection() {
             </div>
 
             <div className="col-12 col-md-4">
-              <div className="writing-card p-3 mb-3">
+              <div className="writing-card p-3 mb-3 shadow-lg p-3 mb-5 bg-white rounded">
                 <img src="./diarypage.png" className="writing-card-image" />
                 <h1 className="writing-card-title mt-3">
                   मेरी डायरी का एक पेज

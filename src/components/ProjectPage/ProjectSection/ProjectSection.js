@@ -18,8 +18,11 @@ function ProjectSection() {
           <div className="row flex-with-center">
             {ProjectData.map((project) => {
               return (
-                <div className="col-12 col-md-4" data-aos="fade-up">
-                  <div className="project-card  p-3 mb-3">
+                <div
+                  className="col-12 col-md-4 flex-with-center"
+                  data-aos="fade-up"
+                >
+                  <div className="project-card  p-3 mb-3 shadow-lg p-3 mb-5 bg-white rounded w-75">
                     <img
                       src={project.image}
                       className="project-card-image"
