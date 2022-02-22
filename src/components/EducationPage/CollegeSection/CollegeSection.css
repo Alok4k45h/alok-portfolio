@@ -1,53 +1,51 @@
-.edu-heading{
+.edu-heading {
   color: #292828;
 }
-
 .college-section {
-    background-color: #f9fbfe;
-  }
-  .college-section-img {
-    width: 270px;
-    height: 270px;
-  }
-  .college-section-heading {
-    color: #292828;
-    font-size: 28px;
-    font-weight: 700;
-  }
-  .college-section-description {
-    color: #292828ca;
-    font-size: 18px;
-  }
-  .custom-edu-button {
-    color: white;
-    background-color: #292828;
-    width: 130px;
-    height: 45px;
-    border-width: 0;
-    border-radius: 8px;
-    margin-right: 10px;
-  }
+  background-color: #f9fbfe;
+}
+.college-section-img {
+  width: 270px;
+  height: 270px;
+}
+.college-section-heading {
+  color: #292828;
+  font-size: 28px;
+  font-weight: 700;
+}
+.college-section-description {
+  color: #292828ca;
+  font-size: 18px;
+}
+.custom-edu-button {
+  color: white;
+  background-color: #292828;
+  width: 130px;
+  height: 45px;
+  border-width: 0;
+  border-radius: 8px;
+  margin-right: 10px;
+}
 
-  .colleges-section {
-    background-color: white;
-  }
-  .colleges-section-img {
-    width: 270px;
-  }
-  .colleges-section-heading {
-    color: #292828;
-    font-size: 28px;
-    font-weight: 700;
-  }
-  .colleges-section-description {
-    color: #292828ca;
-    font-size: 18px;
-  }
-  
-  
+/* Here we have colleges section (not college section) css property */
+.colleges-section {
+  background-color: white;
+}
+.colleges-section-img {
+  width: 270px;
+}
+.colleges-section-heading {
+  color: #292828;
+  font-size: 28px;
+  font-weight: 700;
+}
+.colleges-section-description {
+  color: #292828ca;
+  font-size: 18px;
+}
 
-  @media (max-width:768px) {
-    .college-section-content-container{
-        text-align: center;
-    }
+@media (max-width: 768px) {
+  .college-section-content-container {
+    text-align: center;
   }
+}

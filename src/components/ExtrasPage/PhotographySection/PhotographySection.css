@@ -2,19 +2,19 @@
   color: #292828;
 }
 
-.project {
+.photo {
   padding: 20px;
   border: 1px solid #292828;
   border-radius: 10px;
   margin-top: 50px;
-  animation: project-animation 10s linear infinite;
+  animation: photo-animation 10s linear infinite;
 }
-.project img {
+.photo img {
   height: 220px;
   width: 100%;
 }
 
-.project:hover {
+.photo:hover {
   animation-play-state: paused;
   transform: scale(1.05);
   cursor: pointer;
@@ -23,7 +23,7 @@
   box-shadow: none;
 }
 
-@keyframes project-animation {
+@keyframes photo-animation {
   0% {
     transform: rotate(-5deg);
   }

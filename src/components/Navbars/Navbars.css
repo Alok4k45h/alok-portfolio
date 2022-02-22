@@ -5,6 +5,16 @@
   border-radius: 40px;
 }
 
+.bold-italic{
+  font-weight: bold;
+  font-style: oblique;
+}
+
+.title{
+  font-weight: 700;
+  font-style: oblique;
+}
+
 .bg-color {
   background-color: #292828;
 }

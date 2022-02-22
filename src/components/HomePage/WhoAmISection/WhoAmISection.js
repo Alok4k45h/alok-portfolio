@@ -40,6 +40,7 @@ function WhoAmISection() {
               </Carousel>
             </div>
           </div>
+
           <div className="col-md-1"></div>
 
           <div className="col-md-6 mt-3" data-aos="fade-up">

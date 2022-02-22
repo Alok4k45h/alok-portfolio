@@ -23,28 +23,36 @@ function Footer() {
                 <a
                   href="https://www.facebook.com/alokaakash.me.0101"
                   target="_blank"
+                  rel="noreferrer"
                 >
                   <FaFacebook className="footer-icons" />
                 </a>
+
                 <a
                   href="https://www.instagram.com/alokkr.me.o7/?fbclid=IwAR3G9IPwXVnic7WB7xzCfqlcosN4wVECG7GnLJFtLv_fnePPfC0MqP3-CwY"
                   target="_blank"
+                  rel="noreferrer"
                 >
                   <FaInstagram className="footer-icons" />
                 </a>
-                <a
-                  href=""
-                  target="_blank"
-                >
+
+                <a href="" target="_blank" rel="noreferrer">
                   <FaMailBulk className="footer-icons" />
                 </a>
+
                 <a
                   href="https://www.linkedin.com/in/07alokkumar"
                   target="_blank"
+                  rel="noreferrer"
                 >
                   <FaLinkedinIn className="footer-icons" />
                 </a>
-                <a href="https://github.com/Alok4k45h" target="_blank">
+
+                <a
+                  href="https://github.com/Alok4k45h"
+                  target="_blank"
+                  rel="noreferrer"
+                >
                   <FaGithub className="footer-icons" />
                 </a>
               </div>

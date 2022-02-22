@@ -30,7 +30,11 @@ function CollegeSection() {
                 BACHELOR OF TECHNOLOGY IN MINING ENGINEERING
               </h3>
               <p className="college-section-description">2019-Present</p>
-              <a href="https://www.iitism.ac.in/" target="_blank">
+              <a
+                href="https://www.iitism.ac.in/"
+                target="_blank"
+                rel="noreferrer"
+              >
                 <button className="custom-edu-button">Go to Website</button>
               </a>
             </div>
@@ -61,7 +65,11 @@ function CollegeSection() {
                 <p className="colleges-section-description">
                   June 2016 - June 2018
                 </p>
-                <a href="http://biharboardonline.bihar.gov.in/" target="_blank">
+                <a
+                  href="http://biharboardonline.bihar.gov.in/"
+                  target="_blank"
+                  rel="noreferrer"
+                >
                   <button className="custom-edu-button">Go to Website</button>
                 </a>
               </div>
@@ -89,6 +97,7 @@ function CollegeSection() {
               <a
                 href="https://navodaya.gov.in/nvs/nvs-school/VAISHALI/en/home/"
                 target="_blank"
+                rel="noreferrer"
               >
                 <button className="custom-edu-button">Go to Website</button>
               </a>

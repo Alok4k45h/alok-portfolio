@@ -11,12 +11,10 @@ function BannerSection() {
       >
         <div className="container">
           <div className="row">
-            
-
-            <div className="col-12 col-md-7 order-2 order-md-1">
+            <div className="col-10 col-md-7 mr-auto">
               <div className="bg-content">
                 <h3>Hi👋...it's me...</h3>
-                <h1 data-aos="fade-up">ALOK</h1>
+                <h1 data-aos="fade-up">@alok</h1>
                 <p>
                   Full Stack<span> MERN </span>Developer 🧑‍💻 || B.Tech
                   @IIT(ISM) Dhanbad
@@ -30,6 +28,7 @@ function BannerSection() {
                   <a
                     href="https://drive.google.com/file/d/1cM6yIfG-XMCZDqeAViPGb-R6OpGXVJUI/view?usp=sharing"
                     target="_blank"
+                    rel="noreferrer"
                   >
                     <button className="btn btn-outline-light button font-bold">
                       See my Resume

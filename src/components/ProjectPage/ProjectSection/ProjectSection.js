@@ -22,7 +22,7 @@ function ProjectSection() {
                   className="col-12 col-md-4 flex-with-center"
                   data-aos="fade-up"
                 >
-                  <div className="project-card  p-3 mb-3 shadow-lg p-3 mb-5 bg-white rounded w-75">
+                  <div className="project-card p-3 mb-3 shadow-lg p-3 mb-5 bg-white rounded w-75">
                     <img
                       src={project.image}
                       className="project-card-image"
@@ -39,12 +39,12 @@ function ProjectSection() {
                     </p>
 
                     <div className="project-content">
-                      <p>Description</p>
+                      <p className="font-bold">Description</p>
                       <ul>
                         <li>{project.listFirst}</li>
                         <li>{project.listSecond}</li>
                       </ul>
-                      <a href={project.link} target="_blank">
+                      <a href={project.link} target="_blank" rel="noreferrer">
                         <button className="btn btn-light">Link</button>
                       </a>
                     </div>

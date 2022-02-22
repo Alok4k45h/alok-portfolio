@@ -13,13 +13,13 @@ function PhotographySection() {
         </div>
       </div>
       <div className="pb-5">
-        <div className="container projects-list" id="projects-list">
+        <div className="container">
           <div className="row">
-            {PhotographyData.map((project) => {
+            {PhotographyData.map((photo) => {
               return (
                 <div className="col-md-4 ">
-                  <div className="position-relative project">
-                    <img src={project.image} alt="" />
+                  <div className="position-relative photo">
+                    <img src={photo.image} alt="" />
                   </div>
                 </div>
               );

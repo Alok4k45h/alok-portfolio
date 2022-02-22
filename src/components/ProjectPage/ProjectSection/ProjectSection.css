@@ -40,9 +40,13 @@
 
 .project-card:hover > .project-content {
   opacity: 1;
-  transform: scale(1.01);
+  transform: scale(1);
   cursor: pointer;
+  margin: 10px;
+  margin-top: 5px;
+  margin-bottom: 5px;
 }
+
 /*
 .project-card:hover{
     animation-play-state: paused;

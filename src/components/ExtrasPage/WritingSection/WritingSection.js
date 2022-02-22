@@ -10,18 +10,23 @@ function WritingSection() {
             <h1 className="heading">My Diary 📖</h1>
             <p className="writing-section-description">
               Having a conversation with my true friend, my Diary, who has never
-              judged me, always helps me and makes me calm and happy...
+              judged me, always helps me and makes me Calm and Happy...
             </p>
             <hr />
           </div>
         </div>
       </div>
-      <div className="writing-section pt-5 pb-5" id="writingSection">
+
+      <div className="writing-section pt-5 pb-5">
         <div className="container">
           <div className="row flex-with-center">
             <div className="col-12 col-md-4">
               <div className="writing-card p-3 mb-3 shadow-lg p-3 mb-5 bg-white rounded">
-                <img src="./diarypage.png" className="writing-card-image" />
+                <img
+                  src="./diarypage.png"
+                  className="writing-card-image"
+                  alt=""
+                />
                 <h1 className="writing-card-title mt-3">
                   मेरी डायरी का एक पेज
                 </h1>
@@ -97,7 +102,11 @@ function WritingSection() {
 
             <div className="col-12 col-md-4">
               <div className="writing-card p-3 mb-3 shadow-lg p-3 mb-5 bg-white rounded">
-                <img src="./diarypage.png" className="writing-card-image" />
+                <img
+                  src="./diarypage.png"
+                  className="writing-card-image"
+                  alt=""
+                />
                 <h1 className="writing-card-title mt-3">
                   मेरी डायरी का एक पेज
                 </h1>
@@ -173,7 +182,11 @@ function WritingSection() {
 
             <div className="col-12 col-md-4">
               <div className="writing-card p-3 mb-3 shadow-lg p-3 mb-5 bg-white rounded">
-                <img src="./diarypage.png" className="writing-card-image" />
+                <img
+                  src="./diarypage.png"
+                  className="writing-card-image"
+                  alt=""
+                />
                 <h1 className="writing-card-title mt-3">
                   मेरी डायरी का एक पेज
                 </h1>
