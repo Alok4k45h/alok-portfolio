@@ -55,7 +55,7 @@ function WhoAmISection() {
                     {
                       MyName: "Alok kumar",
                       Nickname: "Aakash",
-                      Place: "Saran,Bihar-841207",
+                      Place: "Saran,Bihar,India-841207",
                       Hobbies: "Nature Photography & Creative Writing",
                     },
                     null,

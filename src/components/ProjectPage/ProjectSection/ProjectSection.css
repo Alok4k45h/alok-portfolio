@@ -18,10 +18,12 @@
   text-align: center;
   background-color: white;
   border-style: solid;
-  border-width: 1px;
-  border-color: #e5eaf4;
-  border-radius: 16px;
+  border-radius: 16px !important;
   margin: 10px;
+  border-top-width: 10px !important;
+  border-bottom: none;
+  border-left: none;
+  border-right: none;
   /*animation: project-animation 10s linear infinite; */
 }
 .project-card-image {
@@ -40,11 +42,9 @@
 
 .project-card:hover > .project-content {
   opacity: 1;
-  transform: scale(1);
+  transform: scale(0.72);
   cursor: pointer;
-  margin: 10px;
-  margin-top: 5px;
-  margin-bottom: 5px;
+  border-radius: 16px !important;
 }
 
 /*
@@ -63,11 +63,12 @@
   justify-content: center;
   padding: 5px;
   height: 100%;
+  width: 100%;
   background-color: #292828;
   color: white;
-  border-radius: 10px;
+  border-radius: 16px !important;
   opacity: 0;
-  transition: all 0.5s;
+  transition: all 0.8s;
 }
 
 /*

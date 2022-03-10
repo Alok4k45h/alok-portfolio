@@ -21,7 +21,10 @@ function WritingSection() {
         <div className="container">
           <div className="row flex-with-center">
             <div className="col-12 col-md-4">
-              <div className="writing-card p-3 mb-3 shadow-lg p-3 mb-5 bg-white rounded">
+              <div
+                className="writing-card p-3 mb-3 shadow-lg p-3 mb-5 bg-white 
+              border-danger"
+              >
                 <img
                   src="./diarypage.png"
                   className="writing-card-image"
@@ -38,7 +41,7 @@ function WritingSection() {
                 <div>
                   <button
                     type="button"
-                    className="custom-button"
+                    className="btn btn-outline-danger"
                     data-toggle="modal"
                     data-target="#exampleModal1"
                   >
@@ -101,7 +104,7 @@ function WritingSection() {
             </div>
 
             <div className="col-12 col-md-4">
-              <div className="writing-card p-3 mb-3 shadow-lg p-3 mb-5 bg-white rounded">
+              <div className="writing-card p-3 mb-3 shadow-lg p-3 mb-5 bg-white rounded border-warning">
                 <img
                   src="./diarypage.png"
                   className="writing-card-image"
@@ -118,7 +121,7 @@ function WritingSection() {
                 <div>
                   <button
                     type="button"
-                    className="custom-button"
+                    className="btn btn-outline-warning"
                     data-toggle="modal"
                     data-target="#exampleModal2"
                   >
@@ -181,7 +184,7 @@ function WritingSection() {
             </div>
 
             <div className="col-12 col-md-4">
-              <div className="writing-card p-3 mb-3 shadow-lg p-3 mb-5 bg-white rounded">
+              <div className="writing-card p-3 mb-3 shadow-lg p-3 mb-5 bg-white border-primary">
                 <img
                   src="./diarypage.png"
                   className="writing-card-image"
@@ -197,7 +200,7 @@ function WritingSection() {
                 <div>
                   <button
                     type="button"
-                    className="custom-button"
+                    className="btn btn-outline-primary"
                     data-toggle="modal"
                     data-target="#exampleModal3"
                   >

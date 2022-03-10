@@ -12,7 +12,7 @@ function CollegeSection() {
         </div>
       </div>
 
-      <div className="college-section pt-5 pb-5 shadow-lg p-3 mb-5 bg-white rounded w-75">
+      <div className="college-section pt-5 pb-5 shadow-lg p-3 mb-5 bg-white w-75 border-right border border-primary rounded-right">
         <div className="container">
           <div className="row">
             <div className="col-12 col-md-5">
@@ -35,7 +35,9 @@ function CollegeSection() {
                 target="_blank"
                 rel="noreferrer"
               >
-                <button className="custom-edu-button">Go to Website</button>
+                <button className="btn btn-outline-primary mt-3">
+                  Go to Website
+                </button>
               </a>
             </div>
           </div>
@@ -43,7 +45,7 @@ function CollegeSection() {
       </div>
 
       <div className="d-flex flex-row justify-content-end">
-        <div className="colleges-section pt-5 pb-5 shadow-lg p-3 mb-5 bg-white rounded w-75">
+        <div className="colleges-section pt-5 pb-5 shadow-lg p-3 mb-5 bg-white w-75 border-left border border-warning rounded-left">
           <div className="container">
             <div className="row">
               <div className="col-12 col-md-5 order-1 order-md-2">
@@ -70,7 +72,9 @@ function CollegeSection() {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  <button className="custom-edu-button">Go to Website</button>
+                  <button className="btn btn-outline-warning mt-3">
+                    Go to Website
+                  </button>
                 </a>
               </div>
             </div>
@@ -78,7 +82,7 @@ function CollegeSection() {
         </div>
       </div>
 
-      <div className="college-section pt-5 pb-5 shadow-lg p-3 mb-5 bg-white rounded w-75">
+      <div className="college-section pt-5 pb-5 shadow-lg p-3 mb-5 bg-white w-75 border-right border border-primary rounded-right">
         <div className="container">
           <div className="row">
             <div className="col-12 col-md-5">
@@ -99,7 +103,9 @@ function CollegeSection() {
                 target="_blank"
                 rel="noreferrer"
               >
-                <button className="custom-edu-button">Go to Website</button>
+                <button className="btn btn-outline-primary mt-3">
+                  Go to Website
+                </button>
               </a>
             </div>
           </div>

@@ -14,6 +14,7 @@ function IntroSection() {
         </div>
       </div>
 
+      
       <div className="row pt-5 justify-content-center" data-aos="fade-up">
         <div className="col-md-4">
           <div>
